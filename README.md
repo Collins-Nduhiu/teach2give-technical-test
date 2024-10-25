@@ -1,6 +1,8 @@
 # teach2give-technical-test
 Solutions for the Teach2Give Technical Test
+
 This repository contains my solutions to the Teach2Give Technical Test. Each solution is thoroughly documented and tested, demonstrating clean code practices and attention to detail.
+
 🚀 Solutions Overview
 
 SQL Query for Race Results (2020)
@@ -52,7 +54,7 @@ SQL database system (for Query 1)
 Setup and Running
 
 Clone the repository:
-git clone https://github.com/[username]/teach2give-test.git
+git clone https://github.com/Collins-Nduhiu/teach2give-technical-test.git
 cd teach2give-test
 
 Run the tests:
