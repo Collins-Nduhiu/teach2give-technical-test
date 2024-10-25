@@ -5,140 +5,140 @@ This repository contains my solutions to the Teach2Give Technical Test. Each sol
 
 🚀 Solutions Overview
 
-SQL Query for Race Results (2020)
+     SQL Query for Race Results (2020)
 
-Complex JOIN query demonstrating database relationship understanding
+     Complex JOIN query demonstrating database relationship understanding
 
-Proper column aliasing and filtering
+     Proper column aliasing and filtering
 
-Ordered results as per requirements
+     Ordered results as per requirements
 
 
 Palindrome Checker
 
-Handles words and phrases
+    Handles words and phrases
 
-Case-insensitive comparison
+    Case-insensitive comparison
 
-Ignores spaces and punctuation
+    Ignores spaces and punctuation
 
-Efficient implementation using string slicing
+    Efficient implementation using string slicing
 
 
 Pangram Verifier
 
-Checks for presence of all alphabet letters
+    Checks for presence of all alphabet letters
 
-Case-insensitive processing
+    Case-insensitive processing
 
-Optimized using set operations
+    Optimized using set operations
 
-Handles special characters and spaces
+    Handles special characters and spaces
 
 
 Integer Digit Reversal
 
-Handles positive and negative numbers
+    Handles positive and negative numbers
 
-Manages leading zeros
+    Manages leading zeros
 
-Preserves number signs
+    Preserves number signs
 
-Efficient string-based implementation
+    Efficient string-based implementation
 
 
 Word Capitalization
 
-Capitalizes first letter of each word
+    Capitalizes first letter of each word
 
-Maintains spacing
+    Maintains spacing
 
-Handles multiple edge cases
+    Handles multiple edge cases
 
-Uses Python's built-in string methods effectively
+    Uses Python's built-in string methods effectively
 
 
 
 🛠️ Technical Implementation
 
-Prerequisites
+ Prerequisites
 
-Python 3.6+
+    Python 3.6+
 
-SQL database system (for Query 1)
+    SQL database system (for Query 1)
 
-Setup and Running
+    Setup and Running
 
 Clone the repository:
 
-git clone https://github.com/Collins-Nduhiu/teach2give-technical-test.git
+    git clone https://github.com/Collins-Nduhiu/teach2give-technical-test.git
 
-cd teach2give-test
+    cd teach2give-test
 
 Run the tests:
 
-python solutions.py
+    python solutions.py
 
 
 📊 Test Coverage
 
-The solutions include comprehensive test cases covering:
+ The solutions include comprehensive test cases covering:
 
-Standard inputs
+    Standard inputs
 
-Edge cases
+    Edge cases
 
-Empty inputs
+    Empty inputs
 
-Special characters
+    Special characters
 
-Boundary conditions
+    Boundary conditions
 
-Performance considerations
+    Performance considerations
 
 🎯 Code Quality
 
-The code follows these principles:
+ The code follows these principles:
 
-PEP 8 style guide
+    PEP 8 style guide
 
-Comprehensive documentation
+    Comprehensive documentation
 
-Type hints for better IDE support
+    Type hints for better IDE support
 
-Efficient algorithms
+    Efficient algorithms
 
-Clear variable naming
+    Clear variable naming
 
-Modular design
+    Modular design
 
 📝 Documentation
 
-Each function includes:
+ Each function includes:
 
-Detailed docstrings
+    Detailed docstrings
 
-Usage examples
+    Usage examples
 
-Type hints
+    Type hints
 
-Edge case handling
+    Edge case handling
 
-Performance considerations
+    Performance considerations
 
 🤝 Contributing
 
-While this is a technical test submission, suggestions for improvements are welcome:
+  While this is a technical test submission, suggestions for improvements are welcome:
 
-Fork the repository
+    Fork the repository
 
-Create your feature branch
+    Create your feature branch
 
-Commit your changes
+    Commit your changes
 
-Push to the branch
+    Push to the branch
 
-Open a Pull Request
+    Open a Pull Request
 
 📜 License
 
@@ -146,6 +146,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ✍️ Author
 
-Collins Nduhiu
+    Collins Nduhiu
 
 Built with ❤️ for Teach2Give Technical Test
